@@ -14,4 +14,6 @@ testing workflow
 
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)]
-(https://img.shields.io/github/workflow/status/AKisling/AK_SEM>/A workflow for my Hello World App/develop?style=flat-square)
+(https://img.shields.io/github/workflow/status/AKisling/AK_SEM>/A workflow for my Hello World App/develop?style=flat-square) 
+
+<img alt="AppVeyor" src="https://img.shields.io/appveyor/build/AKisling/AK_SEM?style=plastic">
